@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1799260C236CBAB700785280 /* ThinktankProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThinktankProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1799260C236CBAB700785280 /* ThinktankProjectFINAL.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ThinktankProjectFINAL.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1799260F236CBAB700785280 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		17992611236CBAB700785280 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 		17992613236CBAB700785280 /* DataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataViewController.swift; sourceTree = "<group>"; };
@@ -25,7 +25,6 @@
 		17992618236CBAB700785280 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1799261A236CBAB800785280 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1799261D236CBAB800785280 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		1799261F236CBAB800785280 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,7 +49,7 @@
 		1799260D236CBAB700785280 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1799260C236CBAB700785280 /* ThinktankProject.app */,
+				1799260C236CBAB700785280 /* ThinktankProjectFINAL.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -65,7 +64,6 @@
 				17992617236CBAB700785280 /* Main.storyboard */,
 				1799261A236CBAB800785280 /* Assets.xcassets */,
 				1799261C236CBAB800785280 /* LaunchScreen.storyboard */,
-				1799261F236CBAB800785280 /* Info.plist */,
 			);
 			path = ThinktankProject;
 			sourceTree = "<group>";
@@ -87,7 +85,7 @@
 			);
 			name = ThinktankProject;
 			productName = ThinktankProject;
-			productReference = 1799260C236CBAB700785280 /* ThinktankProject.app */;
+			productReference = 1799260C236CBAB700785280 /* ThinktankProjectFINAL.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -297,7 +295,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = LHSThinktank.ThinktankProject;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ThinktankProjectFINAL;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -314,7 +312,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = LHSThinktank.ThinktankProject;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ThinktankProjectFINAL;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
